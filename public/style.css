@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: url('paper2.webp');
+    background-image: url('brand.jpg');
 }
 
     font-family: 'Bad Script', cursive;;
@@ -23,7 +23,7 @@ section.chat__section {
 }
 .brand {
     padding: 20px;
-    background-image: url('brand.jpg');;
+    background-image: url('paper2.webp');
     display: flex;
     align-items: center;
 }
