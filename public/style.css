@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 * {
     padding: 0;
     margin: 0;
@@ -13,7 +13,7 @@ body {
     background-image: url('brand.jpg');
 }
 
-    font-family: 'Bad Script', cursive;;
+    font-family: 'Ubuntu', sans-serif;
 }
 section.chat__section {
     width: 800px;
